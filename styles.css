@@ -1,0 +1,54 @@
+* {
+    font-family: "Helvetica Neue", sans-serif;
+  }
+
+body {
+    color: midnightblue;
+    background-color: lightsteelblue;
+    font-size: 14px;
+    text-align: left;
+    width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #000000;
+}
+h2 {
+    color: cadetblue;
+}
+h3 {
+    color: coral;
+}
+h4 {
+    color: coral;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.papers {
+    /*height: 15em;*/
+    /*width: 80%;*/
+    /*padding: 20px;*/
+    /*margin: 50px;*/
+    /*border: 10px;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image_highlight {
+    height: 10em;
+    /*padding: 20px;*/
+    /*margin: 10px;*/
+    /*border: 10px;*/
+}
+
+.display_picture {
+    border-radius: 50%;
+    height: 12em;
+    /*padding: 20px;*/
+    /*margin: 10px;*/
+    /*border: 10px;*/
+}
